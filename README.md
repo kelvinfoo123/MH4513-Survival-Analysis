@@ -7,3 +7,5 @@ The course content includes:
 - Parametric methods for survival analysis
 - Tests of goodness of fit such as AIC and BIC 
 - Cox-PH model 
+
+All codes in this repository are written in Python.

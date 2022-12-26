@@ -1,4 +1,4 @@
-# MH4513 Survival-Analysis
+# MH4513-Survival-Analysis
 This repository contains project codes for the course MH4513 Survival Analysis.
 
 The course content includes: 
